@@ -1,5 +1,9 @@
 # Triluxo Book API
 
+## Deployed url
+Base API:https://triluxo-book-api.onrender.com/
+Book API:https://triluxo-book-api.onrender.com/
+
 This is a simple RESTful API for managing a collection of books. It supports basic CRUD (Create, Read, Update, Delete) operations using Node.js, Express.js, and MongoDB.
 
 ## Getting Started
